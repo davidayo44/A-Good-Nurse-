@@ -1,10 +1,5 @@
-# A-Good-Nurse-echo "# A-Good-Nurse-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/davidayo44/A-Good-Nurse-.git
-git push -u origin main
+# A-Good-Nurse-import React from "react"; import { Card, CardContent } from "@/components/ui/card"; import { Button } from "@/components/ui/button";
+
 export default function Home() { return ( <main className="min-h-screen bg-white text-gray-800"> <header className="bg-blue-600 text-white py-6 shadow-md"> <div className="container mx-auto px-4 flex justify-between items-center"> <h1 className="text-2xl font-bold">A GOOD NURSE</h1> <nav className="space-x-4"> <a href="#about" className="hover:underline">About</a> <a href="#resources" className="hover:underline">Resources</a> <a href="#join" className="hover:underline">Join</a> <a href="#contact" className="hover:underline">Contact</a> </nav> </div> </header>
 
 <section className="text-center py-20 bg-gray-100">
